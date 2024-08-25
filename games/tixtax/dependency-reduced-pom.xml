@@ -57,7 +57,7 @@
       <exclusions>
         <exclusion>
           <artifactId>paper-api</artifactId>
-          <groupId>com.destroystokyo.paper</groupId>
+          <groupId>io.papermc.paper</groupId>
         </exclusion>
         <exclusion>
           <artifactId>chatmenuapi</artifactId>
@@ -129,7 +129,7 @@
         </exclusion>
         <exclusion>
           <artifactId>mc-wrappers</artifactId>
-          <groupId>org.inventivetalent</groupId>
+          <groupId>com.github.InventivetalentDev</groupId>
         </exclusion>
         <exclusion>
           <artifactId>classgraph</artifactId>
@@ -144,7 +144,7 @@
           <groupId>com.comphenix.packetwrapper</groupId>
         </exclusion>
         <exclusion>
-          <artifactId>ProtocolLib-API</artifactId>
+          <artifactId>ProtocolLib</artifactId>
           <groupId>com.comphenix.protocol</groupId>
         </exclusion>
         <exclusion>
@@ -153,7 +153,7 @@
         </exclusion>
         <exclusion>
           <artifactId>java-client</artifactId>
-          <groupId>org.mineskin</groupId>
+          <groupId>com.github.InventivetalentDev</groupId>
         </exclusion>
         <exclusion>
           <artifactId>reflectionhelper</artifactId>
